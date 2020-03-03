@@ -7,7 +7,8 @@ Running Question 1:
   Open the repository on Intellij
   Press the Build button
   Press Change the drop-down menu to "ThreeCards" and run it.
-
+  *For the cards to display the program assumes that they are in a path "image/cards" located in the src
+  folder*
 Running Question 2:
   Open the repository on Intellij
   Press the Build button
