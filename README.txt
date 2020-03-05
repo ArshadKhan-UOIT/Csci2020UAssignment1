@@ -1,13 +1,14 @@
 # Csci2020UAssignment1
 
 To use this repository, first clone or download the repository onto your local workspace. 
-This was made using Intellij and JavaFx version 10 so any other versions have not been tested.
+This was made using Intellij and JavaFx version 11 so any other versions have not been tested.
 
 Running Question 1:
   Open the repository on Intellij
   Press the Build button
   Press Change the drop-down menu to "ThreeCards" and run it.
   *For the cards to display the program assumes that they are in a path "image/cards"
+  
 Running Question 2:
   Open the repository on Intellij
   Press the Build button
